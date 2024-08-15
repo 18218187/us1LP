@@ -1,0 +1,3 @@
+.step:not(.active) {
+	display: none !important;
+}

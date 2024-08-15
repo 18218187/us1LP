@@ -1,0 +1,25 @@
+#wpnAskModalContainer #wpnAskModal {
+	width: 350px !important;
+}
+
+#wpnAskModalContainer #wpnAskModal #wpnAskInner #wpnAskDescription {
+	font-size: 14px !important;
+}
+
+#wpnAskModalContainer #wpnAskModal #wpnAskInner #wpnAskTitle {
+	font-size: 20px !important;
+}
+
+#wpnAskModalContainer #wpnAskModal #wpnAskInner #wpnAskBtnYes,
+#wpnAskModalContainer #wpnAskModal #wpnAskInner #wpnAskBtnNo {
+	font-size: 14px !important;
+	width: 144px !important;
+}
+
+#wpnAskModalContainer #wpnAskModal #wpnAskInner #wpnAskBtnNo {
+	margin-left: 20px;
+}
+
+#wpnAskModalContainer #wpnAskModal #wpnAskInner #wpnAskBtnYes {
+	margin-right: 20px;
+}
